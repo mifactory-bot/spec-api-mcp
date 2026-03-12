@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_kdNWWJPYxAshaodm0gvhGnXtsuAQ",
+  "orgId": "team_T41w05tntmeZiV4iyfXpgdEn",
+  "projectName": "spec-api-mcp",
+  "settings": {
+    "createdAt": 1772649750445,
+    "framework": "express",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}
